@@ -7,6 +7,7 @@ I feel like in tech you really need to stand out when it comes to how you spread
 
 ![image](https://github.com/user-attachments/assets/19d87a04-eea6-475d-85ef-8c7d656f9caa)
 
+![image](https://github.com/user-attachments/assets/7bf4250c-620a-48d8-84b8-7a45ad1ab25a)
 
 ### Bill of Materials
 
