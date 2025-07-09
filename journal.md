@@ -17,4 +17,8 @@ Initial schematic
 Couldn't find a good USB c footprint so I had to use a different library
 
 **Total time spent: 2 Hours**
+# July 9th
+I made the PCB, and got it wired up, I'll add the silkscreen after I eat lunch
+
+![image](https://github.com/user-attachments/assets/cc31b22b-bb01-434d-a8d9-a1fd6464dfc3)
 
