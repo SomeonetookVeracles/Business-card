@@ -1,0 +1,14 @@
+### Missing 3D models - created on 2025-07-09 00:37
+### Printed by checking_3D_models plugin
+Board file: C:\Users\Owen\Documents\Projects\Business-card\Business Card\Business Card.kicad_pcb
+3D missing models written to:
+C:\Users\Owen\Documents\Projects\Business-card\Business Card\Business Card_missing3Dmodels.txt
+-------
+('SW3', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_SPST_Omron_B3FS-100xP.step')
+('SW2', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_SPST_Omron_B3FS-100xP.step')
+('SW1', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_SPST_Omron_B3FS-100xP.step')
+('J3', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_C_Receptacle_Amphenol_12401548E4-2A.step')
+('RST1', 'C:\\Users\\Owen\\AppData\\Local\\Programs\\KiCad\\9.0\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_Push_1P1T_NO_CK_KMR2.step')
+-------
+NUM of 3D missing models:5
+checked extensions ['.stp', '.step', '.stpZ']
