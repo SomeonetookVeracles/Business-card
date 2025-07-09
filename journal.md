@@ -22,3 +22,8 @@ I made the PCB, and got it wired up, I'll add the silkscreen after I eat lunch
 
 ![image](https://github.com/user-attachments/assets/cc31b22b-bb01-434d-a8d9-a1fd6464dfc3)
 
+Done! I added the buttons and the details (my phone number is on there too, but I redacted for obvious reasons)
+
+![image](https://github.com/user-attachments/assets/a4e2fa40-42b4-4a2f-9e81-9030aff01d96)
+
+** Total Time spent: 5 Hours**
