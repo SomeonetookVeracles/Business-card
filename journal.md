@@ -1,10 +1,10 @@
+# Total time spent: 5 hours
 ---
 title: "Smart Business Card"
 author: "Veracles"
 description: "A business card for my personal site, and info, with a HID setup so they can access my website with a button push"
 created_at: "2025-07-08"
 ---
-
 # July 8th
 I created the schematic for the business card, and the MCU.
 
